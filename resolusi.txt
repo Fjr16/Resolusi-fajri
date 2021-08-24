@@ -1,5 +1,4 @@
 resolusi kedepan:
--memahami dengan baik pengunaan github dan git
 -dapat membuat suatu project web sendiri
 -dapat membuat project web bersama atau kolaborasi
 -dapat menghasilkan uang dari pembuatan web
